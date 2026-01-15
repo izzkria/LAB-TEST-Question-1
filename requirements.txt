@@ -1,2 +1,13 @@
 streamlit
-pillow
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+numpy
+plotly
+nltk
+PdfReader
+torch
+torchvision
+torchaudio
